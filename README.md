@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://github.com/lenny-rbn/Sliminotor/assets/121859898/b957ab0d-f478-4f2e-b74e-e17d6a3e6091" style="width:400px;"/>
+  <img src="https://github.com/lenny-rbn/Sliminotor/assets/121859898/b957ab0d-f478-4f2e-b74e-e17d6a3e6091" style="width:300px;"/>
   
 </p>
 <h1 align="center"> Sliminotor</h1>
